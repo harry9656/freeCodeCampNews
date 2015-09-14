@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Hominis";
+	src:url("../fonts/HOMINIS.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "CiberGotica";
+	src: url("../fonts/CiberGotica.otf") format("opentype");
+}
